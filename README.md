@@ -3,67 +3,67 @@
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
-please treat your APP ID and API HASH with care, and ensure that they do not fall into wrong hands.
+perlakukan ID APP dan HASH API Anda dengan hati-hati, dan pastikan tidak jatuh ke tangan yang salah.
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
+**Telegram said**: _ Dilarang memberikan nilai ini kepada pihak ketiga.
 
-- can be found on [Telegram](https://telegram.dog/scrapmanbot)
+- dapat ditemukan di [Telegram](https://telegram.dog/venzscrapbot)
 
-🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
-__For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
+🙄 [@venz scrap mode](https://telegram.dog/venzscrapbot) **adalah satu-satunya Telegram RoBot, yang menggunakan kode repositori ini**. 🙄😬
+__Untuk bot lain, tanyakan kode sumber masing-masing pengembang bot, sebelum mengirim **kredensial pribadi*" ke bot__.
 
-## Frequently Asked Questions
+## Pertanyaan yang Sering Diajukan
 
-- Should you Trust this bot?
-  - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
+- Haruskah Anda Mempercayai bot ini?
+  - **TIDAK**. __Anda tidak boleh mengirim kredensial pribadi Anda ke Bot Telegram pihak ketiga yang tidak dikenal__. Bot / kode sumber ini merupakan upaya untuk menghapus `my.telegram.org` menggunakan perpustakaan `Python3`.
 
 
-## installing
+## menginstal
 
-#### The Easy Way
+#### Cara Mudah
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 #### The Legacy Way
 
-- clone the repository, locally.
+- mengkloning repositori, secara lokal.
 ```sh
-git clone https://github.com/mrismanaziz/Scrap-Man.git
+git clone https://github.com/eldy020502/venz-scrap-mode.git
 ```
 
-- change the directory.
+- mengubah direktori.
 ```sh
 cd MyTelegramOrgRoBot
 ```
 
-- create a virtual environment.
+- membuat lingkungan virtual.
 ```sh
 virtualenv -p /usr/bin/python3 venv
 ```
 
-- activate the virtual environment.
+- aktifkan lingkungan virtual.
 ```sh
 . ./venv/bin/activate
 ```
 
-- install the requirements.
+- menginstal persyaratan.
 ```sh
 pip install -r requirements.txt
 ```
 
-- create config.py
+- buat config.py
 
-- run the bot
+- menjalankan bot
 ```sh
 python3 bot.py
 ```
 
-## [@ScrapMan](https://telegram.dog/scrapmanbot)
+## [@venzscrapmode](https://telegram.dog/venzscrapbot)
 
-- Only `TG_BOT_TOKEN` environment variables is mandatory.
-- The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SharingUserbot](https://t.me/SharingUserbot)
+- Hanya variabel lingkungan `TG_BOT_TOKEN` yang wajib.
+- Telegram RoBot harus bekerja tanpa mengatur variabel yang tidak wajib.
+- Harap laporkan masalah apa pun ke grup pendukung: [@VenzGroup](https://t.me/justvenzzz)
 
 
 ## learning
@@ -80,4 +80,5 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [me](https://tx.me/moonscrsh)
+  - [Risman](https://t.me/mrismanaziz)
