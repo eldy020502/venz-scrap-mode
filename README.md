@@ -7,9 +7,9 @@ perlakukan ID APP dan HASH API Anda dengan hati-hati, dan pastikan tidak jatuh k
 
 **Telegram said**: _ Dilarang memberikan nilai ini kepada pihak ketiga.
 
-- dapat ditemukan di [Telegram](https://telegram.dog/venzscrapbot)
+- dapat ditemukan di [Telegram](https://telegram.dog/venzapibot)
 
-🙄 [@venz scrap mode](https://telegram.dog/venzscrapbot) **adalah satu-satunya Telegram RoBot, yang menggunakan kode repositori ini**. 🙄😬
+🙄 [@venz scrap mode](https://telegram.dog/venzapibot) **adalah satu-satunya Telegram RoBot, yang menggunakan kode repositori ini**. 🙄😬
 __Untuk bot lain, tanyakan kode sumber masing-masing pengembang bot, sebelum mengirim **kredensial pribadi*" ke bot__.
 
 ## Pertanyaan yang Sering Diajukan
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@venzscrapmode](https://telegram.dog/venzscrapbot)
+## [@venzscrapmode](https://telegram.dog/venzapibot)
 
 - Hanya variabel lingkungan `TG_BOT_TOKEN` yang wajib.
 - Telegram RoBot harus bekerja tanpa mengatur variabel yang tidak wajib.
